@@ -1,4 +1,4 @@
-# 📊 Análisis Estadístico de las Causas de Muerte en España (INE)
+# 📊 Análisis Estadístico de las Causas de Muerte en España 
 ---
 
 ## 📘 Descripción del Proyecto
